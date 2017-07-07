@@ -1,0 +1,3 @@
+bowtie2-build chr22.fa chr22_index
+bowtie2 -x chr22_index -U assignment2/reads.fq -p 2 -S assignment2_reads.sam 2>report.tsv
+blastn -query assignment2/unknown.fsa -db nt -remote  > blast_output.txt

@@ -1,0 +1,10 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+MFS_1                RF0102     gene_id_3            -              5e-17   55.3   6.4     6e-17   55.0   4.4   1.1   1   0   0   1   1   1   1 PF07690.11 Major Facilitator Superfamily [ARO:0010002]
+MFS_1                RF0102     gene_id_6            -            2.9e-10   33.0   9.4   3.1e-10   32.9   6.5   1.0   1   0   0   1   1   1   1 PF07690.11 Major Facilitator Superfamily [ARO:0010002]
+MFS_1                RF0102     gene_id_8            -            9.9e-30   97.0  40.6   9.9e-30   97.0  28.1   1.3   2   0   0   2   2   1   1 PF07690.11 Major Facilitator Superfamily [ARO:0010002]
+TetM-TetW-TetO-TetS  RF0133     gene_id_12           -           6.1e-213  701.8   0.0  6.8e-213  701.7   0.0   1.0   1   0   0   1   1   1   1 "tetM, tetW, tetO, and tetS: tetracycline resistance ribosomal protection protein" [ARO:3000186;ARO:3000194;ARO:3000190;ARO:3000192]
+Beta-lactamase       RF0038     gene_id_13           -            1.7e-13   43.9   0.1   1.7e-13   43.8   0.1   1.0   1   0   0   1   1   1   1 PF00144.19 Beta-lactamase [ARO:3000001]
+Beta-lactamase       RF0038     gene_id_14           -            2.7e-34  112.2   0.3     3e-34  112.1   0.2   1.0   1   0   0   1   1   1   1 PF00144.19 Beta-lactamase [ARO:3000001]
+Small_Multi_Drug_Res RF0169     gene_id_16           -            9.9e-34  109.4  12.4   1.3e-33  109.1   8.6   1.1   1   0   0   1   1   1   1 PF00893.14_Small Multidrug Resistance protein
